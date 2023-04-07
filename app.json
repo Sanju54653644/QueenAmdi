@@ -29,7 +29,7 @@
         "TZ": {
             "description": "Your timezone",
             "required": true,
-            "value": "Asia/Colombo"
+            "value": "Asia/Kolkata"
         }
     },
     "buildpacks": [
